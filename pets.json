@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "nome": "Max",
+    "especie": "cachorro",
+    "descricao": "Max é um labrador brincalhão de 2 anos, adora passear e brincar de bolinha. Muito dócil e se dá bem com crianças e outros animais.",
+    "foto": "",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "email": "max.adocao@email.com"
+  },
+  {
+    "id": 2,
+    "nome": "Luna",
+    "especie": "gato",
+    "descricao": "Luna é uma gata siamesa de 1 ano, super carinhosa e adora um colo. Calma e independente, perfeita para apartamentos.",
+    "foto": "",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "email": "luna.adocao@email.com"
+  },
+  {
+    "id": 3,
+    "nome": "Bento",
+    "especie": "cachorro",
+    "descricao": "Bento é um vira-lata de porte médio, 3 anos. Encontrado na rua, é um pouco tímido no início, mas se torna um grande companheiro. Precisa de um lar paciente.",
+    "foto": "",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "email": "bento.adocao@email.com"
+  },
+  {
+    "id": 4,
+    "nome": "Mia",
+    "especie": "gato",
+    "descricao": "Mia é uma gatinha preta e branca de 6 meses, muito curiosa e cheia de energia. Adora caçar brinquedos e escalar.",
+    "foto": "",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "email": "mia.adocao@email.com"
+  },
+  {
+    "id": 5,
+    "nome": "Thor",
+    "especie": "cachorro",
+    "descricao": "Thor é um golden retriever de 4 anos, com um temperamento extremamente gentil e amigável. Ideal para famílias com bastante espaço.",
+    "foto": "",
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "email": "thor.adocao@email.com"
+  },
+  {
+    "id": 6,
+    "nome": "Félix",
+    "especie": "gato",
+    "descricao": "Félix é um gato rajado de 2 anos, um caçador nato e muito brincalhão. Gosta de explorar e de carinhos na cabeça.",
+    "foto": "",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "email": "felix.adocao@email.com"
+  },
+  {
+    "id": 7,
+    "nome": "Daisy",
+    "especie": "cachorro",
+    "descricao": "Daisy é uma poodle miniatura de 1 ano, muito esperta e adora truques. Perfeita para quem busca um pet pequeno e divertido.",
+    "foto": "",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "email": "daisy.adocao@email.com"
+  },
+  {
+    "id": 8,
+    "nome": "Chloe",
+    "especie": "gato",
+    "descricao": "Chloe é uma persa de 3 anos, majestosa e tranquila. Adora dormir em lugares quentinhos e ser escovada.",
+    "foto": "",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "email": "chloe.adocao@email.com"
+  },
+  {
+    "id": 9,
+    "nome": "Rocky",
+    "especie": "cachorro",
+    "descricao": "Rocky é um boxer de 5 anos, forte e leal. Precisa de bastante exercício e um tutor experiente.",
+    "foto": "",
+    "cidade": "Recife",
+    "estado": "PE",
+    "email": "rocky.adocao@email.com"
+  },
+  {
+    "id": 10,
+    "nome": "Zoe",
+    "especie": "gato",
+    "descricao": "Zoe é uma gata malhada de 8 meses, muito curiosa e adora observar o movimento pela janela. Sociável e tranquila.",
+    "foto": "",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "email": "zoe.adocao@email.com"
+  },
+  {
+    "id": 11,
+    "nome": "Simba",
+    "especie": "cachorro",
+    "descricao": "Simba é um cão sem raça definida, porte grande, 6 anos. Um gigante gentil, adora a companhia humana e longas caminhadas.",
+    "foto": "",
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "email": "simba.adocao@email.com"
+  },
+  {
+    "id": 12,
+    "nome": "Amora",
+    "especie": "gato",
+    "descricao": "Amora é uma gata preta de 4 anos, muito elegante e independente. Ela adora tirar sonecas e é muito limpinha.",
+    "foto": "",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "email": "amora.adocao@email.com"
+  },
+  {
+    "id": 13,
+    "nome": "Scooby",
+    "especie": "cachorro",
+    "descricao": "Scooby é um basset hound de 3 anos, com um faro incrível e uma personalidade adorável. Adora explorar e relaxar no sofá.",
+    "foto": "",
+    "cidade": "Vitória",
+    "estado": "ES",
+    "email": "scooby.adocao@email.com"
+  },
+  {
+    "id": 14,
+    "nome": "Íris",
+    "especie": "gato",
+    "descricao": "Íris é uma gata tricolor de 1 ano e meio, muito sociável e brincalhona. Se adapta bem a novos ambientes e pessoas.",
+    "foto": "",
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "email": "iris.adocao@email.com"
+  },
+  {
+    "id": 15,
+    "nome": "Duque",
+    "especie": "cachorro",
+    "descricao": "Duque é um pastor alemão de 7 anos, muito protetor e inteligente. Ideal para quem busca um cão de guarda e companhia fiel.",
+    "foto": "",
+    "cidade": "Natal",
+    "estado": "RN",
+    "email": "duque.adocao@email.com"
+  },
+  {
+    "id": 16,
+    "nome": "Pérola",
+    "especie": "gato",
+    "descricao": "Pérola é uma gatinha branca de pelo longo, 9 meses. Super meiga e adora carinhos. Requer escovação regular.",
+    "foto": "",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "email": "perola.adocao@email.com"
+  },
+  {
+    "id": 17,
+    "nome": "Cacau",
+    "especie": "cachorro",
+    "descricao": "Cacau é uma cocker spaniel de 2 anos, muito animada e adora brincar na água. Ótima companheira para atividades ao ar livre.",
+    "foto": "",
+    "cidade": "Maceió",
+    "estado": "AL",
+    "email": "cacau.adocao@email.com"
+  },
+  {
+    "id": 18,
+    "nome": "Milo",
+    "especie": "gato",
+    "descricao": "Milo é um gato alaranjado de 5 anos, um verdadeiro dorminhoco e apreciador de um bom cafuné. Muito tranquilo.",
+    "foto": "",
+    "cidade": "Teresina",
+    "estado": "PI",
+    "email": "milo.adocao@email.com"
+  },
+  {
+    "id": 19,
+    "nome": "Bella",
+    "especie": "cachorro",
+    "descricao": "Bella é uma shih-tzu de 3 anos, um pouco temperamental, mas extremamente leal e carinhosa com seu tutor. Adora colo.",
+    "foto": "",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "email": "bella.adocao@email.com"
+  },
+  {
+    "id": 20,
+    "nome": "Sushi",
+    "especie": "gato",
+    "descricao": "Sushi é um gatinho exótico de 1 ano, muito expressivo e divertido. Gosta de observar tudo do alto.",
+    "foto": "",
+    "cidade": "Palmas",
+    "estado": "TO",
+    "email": "sushi.adocao@email.com"
+  },
+  {
+    "id": 21,
+    "nome": "Luke",
+    "especie": "cachorro",
+    "descricao": "Luke é um border collie de 4 anos, muito inteligente e enérgico. Precisa de tutores ativos que possam estimulá-lo física e mentalmente.",
+    "foto": "",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "email": "luke.adocao@email.com"
+  },
+  {
+    "id": 22,
+    "nome": "Pandora",
+    "especie": "gato",
+    "descricao": "Pandora é uma gata cinza de 2 anos, um pouco reservada, mas muito amorosa quando se sente segura. Se dá bem com ambientes calmos.",
+    "foto": "",
+    "cidade": "São Luís",
+    "estado": "MA",
+    "email": "pandora.adocao@email.com"
+  },
+  {
+    "id": 23,
+    "nome": "Pipoca",
+    "especie": "cachorro",
+    "descricao": "Pipoca é uma dachshund de 6 anos, com uma personalidade forte e muito carismática. Adora um bom petisco e tirar sonecas.",
+    "foto": "",
+    "cidade": "Belém",
+    "estado": "PA",
+    "email": "pipoca.adocao@email.com"
+  },
+  {
+    "id": 24,
+    "nome": "Oliver",
+    "especie": "gato",
+    "descricao": "Oliver é um gatinho filhote de 5 meses, muito brincalhão e curioso. Precisa de um lar que o ensine e dê muito amor.",
+    "foto": "",
+    "cidade": "Macapá",
+    "estado": "AP",
+    "email": "oliver.adocao@email.com"
+  },
+  {
+    "id": 25,
+    "nome": "Fred",
+    "especie": "cachorro",
+    "descricao": "Fred é um pug de 8 anos, um senhorzinho tranquilo que adora dormir e um carinho na barriga. Companheiro ideal para idosos.",
+    "foto": "",
+    "cidade": "Boa Vista",
+    "estado": "RR",
+    "email": "fred.adocao@email.com"
+  }
+]
